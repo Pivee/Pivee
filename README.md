@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently working as a Backend Engineer for WireApps and CareIQ.
+- I'm currently working as a Backend Engineer for WireApps.
 - I've been writing Typescript code mainly, and I love it!
 - My favourite backend framework so far is NestJS. 🐈
 
